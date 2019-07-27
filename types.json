@@ -1,0 +1,8 @@
+[
+  {
+    "code": "book",
+    "title": "Books",
+    "comment": "Printed, audio or e-book",
+    "policy": "Every file should be named as <first-name> <last-name> - <title>.json, where title is in the language the books was written in, e.g. Günter Grass - Die Blechtrommel.json. Any link that exists in a different translation/edition should be still in this file with a comment"
+  }
+]
