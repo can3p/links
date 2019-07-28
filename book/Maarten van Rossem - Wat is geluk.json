@@ -1,0 +1,332 @@
+{
+  "author": "Maarten van Rossum",
+  "title": "Wat is geluk?",
+  "references": [
+    {
+      "name": "Three days of the Condor",
+      "type": "movie",
+      "links": [
+        "https://www.imdb.com/title/tt0073802/"
+      ]
+    },
+    {
+      "name": "Bullitt",
+      "type": "movie",
+      "links": [
+        "https://www.imdb.com/title/tt0062765/"
+      ]
+    },
+    {
+      "name": "The Day of the Triffids",
+      "type": "book",
+      "author": "John Wyndham",
+      "links": [
+        "https://en.wikipedia.org/wiki/The_Day_of_the_Triffids"
+      ]
+    },
+    {
+      "name": "The Black Cloud",
+      "type": "book",
+      "author": "Fred Hoyle",
+      "links": [
+        "https://en.wikipedia.org/wiki/The_Black_Cloud"
+      ]
+    },
+    {
+      "name": "Foundation",
+      "type": "book",
+      "author": "Isaac Asimov",
+      "links": [
+        "https://en.wikipedia.org/wiki/Foundation_(Asimov_novel)"
+      ]
+    },
+    {
+      "name": "Athenian Democracy",
+      "type": "book",
+      "author": "A.H.M Jones",
+      "links": [
+        "https://www.amazon.com/Athenian-Democracy-H-M-Jones/dp/0801833809"
+      ]
+    },
+    {
+      "name": "Philip the Bold: The Formation of the Burgundian State",
+      "type": "book",
+      "author": "Richard Vaughan",
+      "links": [
+        "https://www.bol.com/nl/p/philip-the-bold/1001004001670553/"
+      ]
+    },
+    {
+      "name": "Defeat Of The Spanish Armada",
+      "type": "book",
+      "author": "Garrett Mattingly",
+      "links": [
+        "https://www.amazon.com/Defeat-Spanish-Armada-Garrett-Mattingly/dp/0140077642"
+      ]
+    },
+    {
+      "name": "The Origins of The Second World War",
+      "type": "book",
+      "author": "A.J.P. Taylor",
+      "links": [
+        "https://www.amazon.com/Origins-Second-World-War/dp/0684829479"
+      ]
+    },
+    {
+      "name": "The Anatomy of Revolution",
+      "type": "book",
+      "author": "Crane Brinton",
+      "links": [
+        "https://en.wikipedia.org/wiki/The_Anatomy_of_Revolution"
+      ]
+    },
+    {
+      "name": "Barbarossa: The Russian-German Conflict, 1941-45",
+      "type": "book",
+      "author": "Alan Clark",
+      "links": [
+        "https://www.amazon.com/Barbarossa-Russian-German-Conflict-Alan-Clark/dp/0688042686"
+      ]
+    },
+    {
+      "name": "The Making of the President, 1960",
+      "type": "book",
+      "author": "Theodore H. White",
+      "links": [
+        "https://en.wikipedia.org/wiki/The_Making_of_the_President,_1960"
+      ]
+    },
+    {
+      "name": "American Melodrama: The Presidential Campaign of 1968",
+      "type": "book",
+      "author": "Lewis Chester",
+      "links": [
+        "https://www.amazon.com/American-Melodrama-Presidential-Campaign-1968/dp/0670119911"
+      ]
+    },
+    {
+      "name": "The Making of the President, 1968",
+      "type": "book",
+      "author": "Theodore H. White",
+      "links": [
+        "https://www.amazon.com/Making-President-1968-Landmark-Political/dp/0061900648"
+      ]
+    },
+    {
+      "name": "The Selling of the President 1968",
+      "type": "book",
+      "author": "Joe McGinniss",
+      "links": [
+        "https://en.wikipedia.org/wiki/The_Selling_of_the_President_1968"
+      ]
+    },
+    {
+      "name": "The Boys on the Bus",
+      "type": "book",
+      "author": "Timothy Crouse, Hunter S. Thompson",
+      "links": [
+        "https://en.wikipedia.org/wiki/The_Boys_on_the_Bus"
+      ]
+    },
+    {
+      "name": "Fear and Loathing on the Campaign Trail ’72",
+      "type": "book",
+      "author": "Hunter S. Thompson",
+      "links": [
+        "https://www.amazon.co.uk/Loathing-Campaign-Harper-Perennial-Classics/dp/0007204485"
+      ]
+    },
+    {
+      "name": "Axel's Castle - A Study In Imaginative Literature Of 1870-1930",
+      "type": "book",
+      "author": "Edmund Wilson",
+      "links": [
+        "https://www.bol.com/nl/f/axel-s-castle-a-study-in-imaginative-literature-of-1870-1930/36216035/"
+      ]
+    },
+    {
+      "name": "Humboldt's Gift",
+      "type": "book",
+      "author": "Sean Bellow",
+      "links": [
+        "https://en.wikipedia.org/wiki/Humboldt%27s_Gift"
+      ]
+    },
+    {
+      "name": "À la recherche du temps perdu",
+      "type": "book",
+      "author": "Marcel Proust",
+      "links": [
+        "https://en.wikipedia.org/wiki/In_Search_of_Lost_Time"
+      ]
+    },
+    {
+      "name": "Heart of Darkness",
+      "type": "book",
+      "author": "Joseph Conrad",
+      "links": [
+        "https://en.wikipedia.org/wiki/Heart_of_Darkness"
+      ]
+    },
+    {
+      "name": "A Bend in the River",
+      "type": "book",
+      "author": "V. S. Naipaul",
+      "links": [
+        "https://en.wikipedia.org/wiki/A_Bend_in_the_River"
+      ]
+    },
+    {
+      "name": "Les Misérables",
+      "type": "book",
+      "author": "Victor Hugo",
+      "links": [
+        "https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables"
+      ]
+    },
+    {
+      "name": "Les Thibault",
+      "type": "book",
+      "author": "Roger Martin du Gard",
+      "links": [
+        "https://en.wikipedia.org/wiki/The_Thibaults"
+      ]
+    },
+    {
+      "name": "Het leven: een gebruiksaanwijzing",
+      "type": "book",
+      "author": "Georges Perec",
+      "links": [
+        "https://www.bol.com/nl/f/het-leven-een-gebruiksaanwijzing/30010063/"
+      ]
+    },
+    {
+      "name": "Der Mann ohne Eigenschaften",
+      "type": "book",
+      "author": "Robert Musil",
+      "links": [
+        "https://en.wikipedia.org/wiki/The_Man_Without_Qualities"
+      ]
+    },
+    {
+      "name": "Berlin Alexanderplatz",
+      "type": "book",
+      "author": "Alfred Döblin",
+      "links": [
+        "https://en.wikipedia.org/wiki/Berlin_Alexanderplatz"
+      ]
+    },
+    {
+      "name": "Die Blechtrommel",
+      "type": "book",
+      "author": "Günter Grass",
+      "links": [
+        "https://en.wikipedia.org/wiki/The_Tin_Drum"
+      ]
+    },
+    {
+      "name": "Buddenbrooks",
+      "type": "book",
+      "author": "Thomas Mann",
+      "links": [
+        "https://en.wikipedia.org/wiki/Buddenbrooks"
+      ]
+    },
+    {
+      "name": "Rabbit, Run",
+      "type": "book",
+      "author": "John Updike",
+      "links": [
+        "https://en.wikipedia.org/wiki/Rabbit,_Run"
+      ]
+    },
+    {
+      "name": "The sportswriter",
+      "type": "book",
+      "author": "Richard Ford",
+      "links": [
+        "https://en.wikipedia.org/wiki/The_Sportswriter"
+      ]
+    },
+    {
+      "name": "The great expectations",
+      "type": "book",
+      "author": "Charles Dickens",
+      "links": [
+        "https://en.wikipedia.org/wiki/Great_Expectations"
+      ]
+    },
+    {
+      "name": "A Dance to the Music of Time",
+      "type": "book",
+      "author": "Anthony Powell",
+      "links": [
+        "https://en.wikipedia.org/wiki/A_Dance_to_the_Music_of_Time"
+      ]
+    },
+    {
+      "name": "Fortunes of war",
+      "type": "book",
+      "author": "Olivia Manning",
+      "links": [
+        "https://en.wikipedia.org/wiki/Fortunes_of_War_(novel_series)"
+      ]
+    },
+    {
+      "name": "Nostromo: A Tale of the Seaboard",
+      "type": "book",
+      "author": "Joseph Conrad",
+      "links": [
+        "https://en.wikipedia.org/wiki/Nostromo"
+      ]
+    },
+    {
+      "name": "La coscienza di Zeno",
+      "type": "book",
+      "author": "Italo Svevo",
+      "links": [
+        "https://en.wikipedia.org/wiki/Zeno%27s_Conscience"
+      ]
+    },
+    {
+      "name": "Mort à crédit",
+      "type": "book",
+      "author": "Louis-Ferdinand Céline",
+      "links": [
+        "https://en.wikipedia.org/wiki/Death_on_Credit"
+      ]
+    },
+    {
+      "name": "Madame Bovary. Mœurs de province",
+      "type": "book",
+      "author": "Gustave Flaubert",
+      "links": [
+        "https://en.wikipedia.org/wiki/Madame_Bovary"
+      ]
+    },
+    {
+      "name": "Het Bureau",
+      "type": "book",
+      "author": "J.J. Voskuil",
+      "links": [
+        "https://www.bol.com/nl/f/het-bureau-3-plankton/30011950/"
+      ]
+    },
+    {
+      "name": "Don Quixote",
+      "type": "book",
+      "author": "Miguel de Cervantes",
+      "links": [
+        "https://en.wikipedia.org/wiki/Don_Quixote"
+      ]
+    },
+    {
+      "name": "Moby-dick",
+      "type": "book",
+      "author": "Herman Melville",
+      "links": [
+        "https://en.wikipedia.org/wiki/Moby-Dick"
+      ]
+    }
+  ]
+}
